@@ -1,6 +1,6 @@
 #include <iostream>
 int main()
 {
-	std::cout<<"Ala Ma Kota"<<std::endl;
+	std::cout<<"Ala Makota"<<std::endl;
 	return 0;
 }
